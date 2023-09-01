@@ -18,6 +18,7 @@ public class b2 {
         String y = (0  >  delta) ? "Phương trình vô nghiệm" : "Phương trình có nghiệm x1, x2 lần lượt là: " + x1 + " và " + x2;
         System.out.println(y);
 
+
 //        if (delta < 0){
 //            System.out.println("Phương trình vô nghiệm");
 //        } else {
